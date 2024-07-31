@@ -1,0 +1,17 @@
+.card {
+  max-width: 450px;
+  padding: 20px;
+  border: 0.5px solid rgb(204, 204, 204);
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgb(204, 204, 204);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.card .tamao {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+}
